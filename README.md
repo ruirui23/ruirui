@@ -17,5 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazonoKansatugata&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazonoKansatugata&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazonoKansatugata&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazonoKansatugata&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikinoiiiseebi&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikinoiiiseebi&show_icons=true)
